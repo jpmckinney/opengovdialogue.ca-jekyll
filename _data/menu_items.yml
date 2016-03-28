@@ -12,7 +12,7 @@ en:
   # - text: Resources
   #   url: /en/resources.html
   - text: Forum
-    url: http://mail.lists.opengovcanada.ca/mailman/listinfo/ogp_lists.opengovcanada.ca
+    url: https://groups.google.com/a/opengovdialogue.ca/forum/#!forum/discuss
 fr:
   - text: Accueil
     url: /fr/
@@ -27,4 +27,4 @@ fr:
   # - text: Ressources
   #   url: /fr/ressources.html
   - text: Forum
-    url: http://mail.lists.opengovcanada.ca/mailman/listinfo/ogp_lists.opengovcanada.ca
+    url: https://groups.google.com/a/opengovdialogue.ca/forum/#!forum/discuss
