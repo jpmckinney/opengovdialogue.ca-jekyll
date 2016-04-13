@@ -17,7 +17,7 @@ From March 31 to May 15, 2016, Canada is collecting ideas for the plan. You can:
 
 To get a sense of what an action plan looks like, check out Canada's [2014-16 plan](http://open.canada.ca/en/content/canadas-action-plan-open-government-2014-16) and its [progress report](http://open.canada.ca/en/commitments).
 
-**Need inspiration?** Browse these [inspiring commitments for open government](http://www.opengovpartnership.org/sites/default/files/OGP-Whats-in-the-New-OGP-NAPs-report-web.pdf) from around the world, with examples for:
+**Need inspiration?** Read this blog series with ideas around [gender equality](http://www.opengovpartnership.org/blog/laura-neuman/2016/03/08/great-ideas-ogp-action-plans-open-government-whom-committing-women), [fiscal transparency](http://www.opengovpartnership.org/blog/jorge-florez/2016/03/22/great-ideas-ogp-action-plans-follow-money) and [government contracts](http://www.opengovpartnership.org/blog/georg-neumann/2016/03/28/great-ideas-ogp-action-plans-open-contracting). Browse these [inspiring commitments for open government](http://www.opengovpartnership.org/sites/default/files/OGP-Whats-in-the-New-OGP-NAPs-report-web.pdf) from around the world, with examples for:
 
 1. Public Participation
 1. Government Integrity
