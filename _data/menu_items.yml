@@ -3,8 +3,8 @@ en:
     url: /
   - text: About
     url: /en/about.html
-  # - text: Get involved
-  #   url: /en/get-involved.html
+  - text: Get involved
+    url: /en/get-involved.html
   # - text: News
   #   url: /en/news.html
   # - text: Events
