@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: page-fr
 translation_url: /en/get-involved.html
 ---
 # Impliquez-vous

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-en
 translation_url: /fr/simpliquer.html
 ---
 # Get Involved
