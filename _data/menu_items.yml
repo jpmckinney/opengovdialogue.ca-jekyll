@@ -18,8 +18,8 @@ fr:
     url: /fr/
   - text: À propos
     url: /fr/a-propos.html
-  # - text: S'impliquer
-  #   url: /fr/simpliquer.html
+  - text: S'impliquer
+    url: /fr/simpliquer.html
   # - text: Nouvelles
   #   url: /fr/nouvelles.html
   # - text: Événements
