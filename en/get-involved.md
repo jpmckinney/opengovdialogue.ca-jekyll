@@ -4,6 +4,9 @@ translation_url: /fr/simpliquer.html
 ---
 # Get Involved
 
+We encourage you to read Canada's <a href="http://open.canada.ca/en/content/third-biennial-plan-open-government-partnership">Third Biennial Plan to the Open Government Partnership (2016-18)</a> and to contact <a href="mailto:join@opengovdialogue.ca">join@opengovdialogue.ca</a> to join the network and receive updates about our progress. If you're interested in engaging on a particular commitment in the plan, contact <a href="open-ouvert@tbs-sct.gc.ca">open-ouvert@tbs-sct.gc.ca</a>.
+
+<!--
 Canada is [consulting on its Action Plan on Open Government](http://open.canada.ca/en/consultations/creating-canadas-action-plan-open-government-2016-18). The plan will include specific commitments to improve access to information, civic participation and public accountability.
 
 **You have an opportunity to shape that plan.**
@@ -47,3 +50,4 @@ http://opengovguide.theideabureau.netdna-cdn.com/wp-content/uploads/2015/10/The-
 1. Life on land
 1. Peace, justice, and strong institutions
 1. Partnership for the goals
+-->
