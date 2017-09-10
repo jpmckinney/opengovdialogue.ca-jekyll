@@ -12,4 +12,4 @@ The Network’s interim steering committee is seeking individuals to act as Stak
 
 Membership on the Stakeholder Selection Committee will involve reviewing the nominations, agreeing with other committee members on a short list, interviewing short-listed candidates, and agreeing on the members of the Multi-stakeholder Forum. Nominations for candidates to the Forum will open the week of September 11th and interviews will take place in October.
 
-To be considered for membership of the Stakeholder Selection Committee, please send a CV and a short letter explaining your motivations and qualifications to serve to [mailto:mailto:MaryFrancoli@cunet.carleton.ca](mailto:MaryFrancoli@cunet.carleton.ca).
+To be considered for membership of the Stakeholder Selection Committee, please send a CV and a short letter explaining your motivations and qualifications to serve to [MaryFrancoli@cunet.carleton.ca](mailto:MaryFrancoli@cunet.carleton.ca).

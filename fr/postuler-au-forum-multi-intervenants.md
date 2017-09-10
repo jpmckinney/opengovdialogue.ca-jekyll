@@ -36,7 +36,7 @@ Les candidats intervenants doivent posséder les qualités suivantes :
 
 ## Processus de mise en candidature
 
-Les candidats peuvent être proposés par un tiers ou le faire par eux-mêmes. Ils doivent soumettre leur candidature par ce site.
+Les candidats peuvent être proposés par un tiers ou le faire par eux-mêmes. Ils doivent soumettre leur candidature à [join@opengovdialogue.ca](mailto:join@opengovdialogue.ca).
 
 Les mises en candidatures doivent comprendre :
 

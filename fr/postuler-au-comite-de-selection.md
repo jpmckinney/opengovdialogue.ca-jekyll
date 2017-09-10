@@ -12,4 +12,4 @@ Le Comité directeur par intérim du Réseau recherche des personnes pour agir e
 
 Les membres du Comité de sélection des intervenants évalueront les personnes sélectionnées, s’entendront avec les autres membres du comité pour la présélection, passeront en entrevue les candidats présélectionnés et s’entendront sur les membres du Forum multi-intervenants. Les mises en candidature pour le Forum commenceront dans la semaine du 5 septembre et les entrevues auront lieu en octobre.
 
-Afin d’être considéré pour devenir membres du Comité de sélection des intervenants, merci d’envoyer un C.V. et une courte lettre expliquant vos motivations et vos qualifications pour offrir vos services à [mailto:mailto:MaryFrancoli@cunet.carleton.ca](mailto:MaryFrancoli@cunet.carleton.ca).
+Afin d’être considéré pour devenir membres du Comité de sélection des intervenants, merci d’envoyer un C.V. et une courte lettre expliquant vos motivations et vos qualifications pour offrir vos services à [MaryFrancoli@cunet.carleton.ca](mailto:MaryFrancoli@cunet.carleton.ca).
