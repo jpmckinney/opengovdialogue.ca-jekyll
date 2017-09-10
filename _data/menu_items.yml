@@ -3,28 +3,16 @@ en:
     url: /
   - text: About
     url: /en/about.html
-  - text: Get involved
-    url: /en/get-involved.html
-  # - text: News
-  #   url: /en/news.html
-  # - text: Events
-  #   url: /en/events.html
-  # - text: Resources
-  #   url: /en/resources.html
-  - text: Forum
+  # - text: Get involved
+  #   url: /en/get-involved.html
+  - text: Discuss
     url: https://groups.google.com/a/opengovdialogue.ca/forum/#!forum/discuss
 fr:
   - text: Accueil
     url: /fr/
   - text: À propos
     url: /fr/a-propos.html
-  - text: S'impliquer
-    url: /fr/simpliquer.html
-  # - text: Nouvelles
-  #   url: /fr/nouvelles.html
-  # - text: Événements
-  #   url: /fr/evenements.html
-  # - text: Ressources
-  #   url: /fr/ressources.html
-  - text: Forum
+  # - text: S'impliquer
+  #   url: /fr/simpliquer.html
+  - text: Discuter
     url: https://groups.google.com/a/opengovdialogue.ca/forum/#!forum/discuss
