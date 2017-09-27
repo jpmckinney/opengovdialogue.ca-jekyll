@@ -42,8 +42,8 @@ Les mises en candidatures doivent comprendre :
 
 * Un Curriculum Vitae (max 4 pages)
 * Une lettre de motivation qui explique a) votre motivation à joindre le Forum (ou celle du candidat que vous proposez); b) votre expérience et vos habiletés en matière de gouvernement ouvert (ou celle du candidat que vous proposez); c) vos antécédents démontrés en leadership, en communications et en stratégie au niveau international ou national (ou celle du candidat que vous proposez) (max 2 pages)
-* Une vidéo, un article de blogue ou un texte fait par le candidat comme exemple éloquent qui reflète sa pensée quant aux questions relatives à la société civile et au gouvernement ouvert
-* Deux références
+* Un texte, un article de blogue ou une vidéo fait par le candidat comme exemple éloquent qui reflète sa pensée quant aux questions relatives à la société civile et au gouvernement ouvert
+* Deux références (noms et coordonnées)
 
 Un Comité de sélection a été établi par le Comité directeur par intérim du Réseau. Ce Comité de sélection examinera les mises en candidature, passera en entrevue les candidats présélectionnés, et il choisira les membres du Forum. Les candidatures de personnes présélectionnées seront téléversées en entier sur le site Web public du Forum.
 

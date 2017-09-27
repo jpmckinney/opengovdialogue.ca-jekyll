@@ -41,8 +41,8 @@ Nominations must include:
 
 * A Curriculum Vitae (max 4 pages)
 * A cover letter explaining your (or the candidate you are nominating) a) motivation for joining, b) open government experience and skills, c) demonstrated track record in international or national level leadership, communications and strategy (max 2 pages)
-* One strong example of a video, blog post, article or piece of writing by the candidate that reflects the candidate’s thinking and articulation on open government and civil society issues
-* Two references
+* One strong example of an article, blog post, piece of writing or video by the candidate that reflects the candidate’s thinking and articulation on open government and civil society issues
+* Two references (names and contact information)
 
 A Selection Committee has been established by the Network’s interim steering committee.  This Selection Committee will review the nominations, short-list candidates for interview, and select the members of the Forum.  The applications of short-listed candidates will be uploaded in full to the Forum’s public website.
 
