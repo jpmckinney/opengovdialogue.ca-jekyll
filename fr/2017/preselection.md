@@ -4,7 +4,7 @@ translation_url: /en/2017/shortlist.html
 ---
 # Forum multi-intervenants: Finalistes
 
-Merci pour votre intérêt envers le processus de sélection du Forum multi-intervenants. En réponse à notre [appel de candidatures](http://www.opengovdialogue.ca/fr/postuler-au-forum-multi-intervenants.html), nous avons reçu 21 candidatures hautement compétitives de la part de leaders accomplis représentant différentes régions et différents intérêts thématiques. Nous sommes ravis de partager la liste de 16 candidats sélectionnés comme finalistes pour nos huit sièges d’intervenants.
+Merci pour votre intérêt envers le processus de sélection du Forum multi-intervenants. En réponse à notre [appel de candidatures](http://www.opengovdialogue.ca/fr/postuler-au-forum-multi-intervenants.html), nous avons reçu 21 candidatures hautement compétitives de la part de leaders accomplis représentant différentes régions et différents intérêts thématiques. **Nous sommes ravis de partager la liste de 16 candidats sélectionnés comme finalistes pour nos huit sièges d’intervenants.**
 
 <table class="table table-striped">
   <thead>

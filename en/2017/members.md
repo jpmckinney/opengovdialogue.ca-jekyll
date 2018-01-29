@@ -4,7 +4,7 @@ translation_url: /fr/2017/membres.html
 ---
 # Multi-stakeholder Forum: Members
 
-Thank you for your interest in the Multi-stakeholder Forum selection process. In response to the [call for nominations](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html) for stakeholder members, the selection committee received 21 nominations representing a highly competitive and accomplished list of stakeholder leaders representing different regions and thematic interests. We are now delighted to share the eight stakeholder members.
+Thank you for your interest in the Multi-stakeholder Forum selection process. In response to the [call for nominations](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html) for stakeholder members, the selection committee received 21 nominations representing a highly competitive and accomplished list of stakeholder leaders representing different regions and thematic interests. **We are now delighted to share the eight stakeholder members.**
 
 <table class="table table-striped">
   <thead>
