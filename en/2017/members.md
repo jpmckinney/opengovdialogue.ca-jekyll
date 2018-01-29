@@ -76,6 +76,13 @@ Thank you for your interest in the Multi-stakeholder Forum selection process. In
 
 Rob Davidson was subsequently selected by stakeholder members to be the Stakeholder Chair.
 
+The stakeholder members will join the government members to form the Multi-stakeholder Forum:
+
+* Mélanie Robert, Executive Director of Open Government and Service, Treasury Board Secretariat
+* Jaimie Boyd, Director of Open Government, Treasury Board Secretariat
+* Laura Wesley, Executive Director of Consultations and Citizen Engagement, Privy Council Office
+* Sandy Kyriakatos, Chief Data Officer, Employment and Social Development Canada
+
 The selection committee’s public account of its process, deliberation and choice follows.
 
 ## Selection committee process
