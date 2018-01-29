@@ -2,6 +2,8 @@
 layout: page-en
 translation_url: /fr/2017/preselection.html
 ---
+# Multi-stakeholder Forum: Shortlist
+
 Thank you for your interest in the Multi-stakeholder Forum selection process. In response to the [call for nominations](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html), we received 21 nominations representing a highly competitive and accomplished list of stakeholder leaders representing different regions and thematic interests. We are delighted to share the list of 16 short-listed candidates for the eight stakeholder seats.
 
 <table class="table table-striped">
