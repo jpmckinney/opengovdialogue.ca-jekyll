@@ -2,8 +2,8 @@
 
 ## Getting Started
 
-    bundle
-    bundle exec jekyll serve -w
+    gem install github-pages
+    jekyll serve -w
 
 ## Maintenance
 
