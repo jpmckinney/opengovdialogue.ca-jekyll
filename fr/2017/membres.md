@@ -4,7 +4,7 @@ translation_url: /en/2017/members.html
 ---
 # Forum multi-intervenants: Membres
 
-Merci pour votre intérêt pour le processus de sélection des membres du Forum multi-intervenants. En réponse à[l’appel de candidatures](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html) des membres intervenants, le comité de sélection a reçu 21 nominations représentant différentes régions et intérêts thématiques. Il s’agissait d’une sélection de leaders de la société civile hautement compétitifs et accomplis. Il nous fait aujourd’hui plaisir de rendre public les noms des huit membres sélectionnés.
+Merci pour votre intérêt pour le processus de sélection des membres du Forum multi-intervenants. En réponse à [l’appel de candidatures](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html) des membres intervenants, le comité de sélection a reçu 21 nominations représentant différentes régions et intérêts thématiques. Il s’agissait d’une sélection de leaders de la société civile hautement compétitifs et accomplis. **Il nous fait aujourd’hui plaisir de rendre public les noms des huit membres sélectionnés.**
 
 <table class="table table-striped">
   <thead>
@@ -107,7 +107,7 @@ Les membres du comité de sélection étaient :
 
 Chaque membre du comité de sélection a donné un score aux candidats selon les documents soumis : curriculum vitae, lettre de présentation et exemple d’un article, billet de blog ou vidéo créé par le candidat reflétant sa pensée et ses réflexions sur les enjeux touchant au gouvernement ouvert et à la société civile.
 
-Le comité de sélection a condensé les critères établis dans le cadre de[l’appel de candidatures](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html) en trois scores:
+Le comité de sélection a condensé les critères établis dans le cadre de [l’appel de candidatures](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html) en trois scores:
 
 **Capacité à saisir et représenter les intérêts de la société civile**
 
@@ -129,13 +129,13 @@ Le comité de sélection a condensé les critères établis dans le cadre de[l�
 
 Dans le cas de conflit d’intérêts, les membres du comité se sont abstenus d’accorder un score ou d’interviewer un candidat – par exemple, s’ils étaient collègues de travail ou s’ils agissaient en tant que référence pour le candidat.
 
-La moyenne des scores a été calculée, et les[16 candidats finalistes](http://www.opengovdialogue.ca/en/2017/shortlist.html) ont été invités à une entrevue pour l’un des huit sièges intervenants.
+La moyenne des scores a été calculée, et les [16 candidats finalistes](http://www.opengovdialogue.ca/en/2017/shortlist.html) ont été invités à une entrevue pour l’un des huit sièges intervenants.
 
 Les scores minimum et maximum possibles étaient 3 et 15. Les candidatures finalistes ont obtenu un score entre 8.5 et 15, et les candidatures rejetées ont obtenu un score entre 3.5 et 8.
 
 ## Processus d’entrevue
 
-Deux membres du comité ont mené des entrevues téléphoniques avec chaque candidat. Le jumelage a été fait au hasard, en tenant compte des disponibilités de chacun et des récusations. Les candidats avaient une heure pour répondre à cinq questions standardisées, inspirées des critères établis par[l’appel de candidatures](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html). Les membres du comité ont alloué 1, 3 ou 5 points par question, selon un système de notation standardisé. Les scores minimum et maximum possibles à l’entrevue étaient 5 et 25. Les candidatures retenues ont obtenu un score entre 21 et 25, et les candidatures rejetées ont obtenu un score entre 14 et 23.
+Deux membres du comité ont mené des entrevues téléphoniques avec chaque candidat. Le jumelage a été fait au hasard, en tenant compte des disponibilités de chacun et des récusations. Les candidats avaient une heure pour répondre à cinq questions standardisées, inspirées des critères établis par [l’appel de candidatures](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html). Les membres du comité ont alloué 1, 3 ou 5 points par question, selon un système de notation standardisé. Les scores minimum et maximum possibles à l’entrevue étaient 5 et 25. Les candidatures retenues ont obtenu un score entre 21 et 25, et les candidatures rejetées ont obtenu un score entre 14 et 23.
 
 Un score total a ensuite été calculé, en pondérant et combinant les scores obtenus lors de la sélection des finalistes et lors de l’entrevue.
 
