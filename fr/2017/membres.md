@@ -89,7 +89,7 @@ Le processus de sélection, de délibération et de décision du comité de sél
 
 ## Processus de sélection du comité de sélection
 
-Les membres du comité de sélection ont été sélectionnés par les (Forum Chairs).
+Les membres du comité de sélection ont été sélectionnés par les présidents du Forum.
 
 Les présidents du Forum étaient :
 
