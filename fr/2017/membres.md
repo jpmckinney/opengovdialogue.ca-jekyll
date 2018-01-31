@@ -4,7 +4,7 @@ translation_url: /en/2017/members.html
 ---
 # Forum multi-intervenants: Membres
 
-Merci pour votre intérêt pour le processus de sélection des membres du Forum multi-intervenants. En réponse à [l’appel de candidatures](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html) des membres intervenants, le comité de sélection a reçu 21 nominations représentant différentes régions et intérêts thématiques. Il s’agissait d’une sélection de leaders de la société civile hautement compétitifs et accomplis. **Il nous fait aujourd’hui plaisir de rendre public les noms des huit membres sélectionnés.**
+Merci pour votre intérêt pour le processus de sélection des membres du Forum multi-intervenants. En réponse à [l’appel de candidatures](http://www.opengovdialogue.ca/en/apply-multistakeholder-forum.html) des membres intervenants, le comité de sélection a reçu 21 nominations représentant différentes régions et intérêts thématiques. Il s’agissait d’une sélection de leaders de la société civile hautement compétitifs et accomplis. **Il nous fait maintenant plaisir de rendre public les noms des huit membres sélectionnés.**
 
 <table class="table table-striped">
   <thead>
