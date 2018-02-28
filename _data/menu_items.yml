@@ -3,8 +3,8 @@ en:
     url: /
   - text: About
     url: /en/about.html
-  # - text: Get involved
-  #   url: /en/get-involved.html
+  - text: Blog
+    url: /category/blog.html
   - text: Discuss
     url: https://groups.google.com/a/opengovdialogue.ca/forum/#!forum/discuss
 fr:
@@ -12,7 +12,7 @@ fr:
     url: /fr/
   - text: À propos
     url: /fr/a-propos.html
-  # - text: S'impliquer
-  #   url: /fr/simpliquer.html
+  - text: Blogue
+    url: /category/blogue.html
   - text: Discuter
     url: https://groups.google.com/a/opengovdialogue.ca/forum/#!forum/discuss
