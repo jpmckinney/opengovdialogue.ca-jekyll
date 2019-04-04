@@ -35,7 +35,7 @@ Stakeholder candidates should have the following qualities:
 
 ## Nomination Process
 
-Candidates may be nominated by a third party or self-nominated.  Candidates must submit their nominations to [join@opengovdialogue.ca](mailto:join@opengovdialogue.ca).
+Candidates may be nominated by a third party or self-nominated.  Candidates must submit their nominations to [redacted].
 
 Nominations must include:
 
