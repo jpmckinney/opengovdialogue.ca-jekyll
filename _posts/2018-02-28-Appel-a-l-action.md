@@ -1,14 +1,11 @@
 ---
-
 layout: post-fr
 translation_url: /blog/2018/02/28/Call-To-Action.html
 category: blogue
-
 ---
+## Appel à l’action
 
-## Appel à l'action
-
-28 février, 2018 
+28 février, 2018
 
 ### Aidez-nous à façonner les engagements du Canada à l'égard du gouvernement ouvert!
 
@@ -45,7 +42,6 @@ Afin de relever le défi, nous avons besoin de vous.
 * parlement ouvert
 * amélioration de la prestation des services
 * engagements passés qui pourraient être reportés dans le prochain plan
-
 
 Le gouvernement planifie déjà des événements pour mobiliser les Canadiens autour de ces sujets. En tant que membres de la société civile travaillant avec le gouvernement sur le FMI, nous sommes conscients de la nécessité d'engager plus largement la société civile. Beaucoup d'organisations et d'individus ont fait et font actuellement un travail incroyable sur ces thèmes, faisant avancer les intérêts de la société civile et ce sera un processus plus pauvre sans que leurs voix soient entendues. Voici quelques occasions d'enrichir le récit:
 

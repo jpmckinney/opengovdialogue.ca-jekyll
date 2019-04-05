@@ -1,17 +1,18 @@
 ---
-
 layout: post-en
 translation_url: /blogue/2018/02/28/Appel-a-l-action.html
 category: blog
-
 ---
+
+
+
 
 ### Help us Shape Canada’s Commitments to Open Government!
 
 #### The Challenge: 6 weeks into the process and only 4 weeks left to shape plan!
 
-
 Canada is currently drafting its fourth action plan on open government as part of its role in the Open Government Partnership (OGP). Action plans are a place where governments articulate concrete commitments intended to empower citizens, fight corruption, and strengthen governance.
+
 In order to better engage citizens and civil society, Canada recently launched a Multi-stakeholder Forum on Open Government (MSF). This forum aims to promote government-stakeholder dialogue on open government policies and to help ensure robust participation in Canada’s next action plan.
 
 Meet the members of the MSF [here](http://www.opengovdialogue.ca/en/2017/members.html).
@@ -24,9 +25,7 @@ We need Canada to ‘step up.’ But what does this mean? How can we ensure comm
 
 To wrap our heads around this, we need you.
 
-
 #### Emerging Themes
-
 
 At the first meeting of the MSF we worked with government to develop a list of key themes upon which to engage Canadians:
 
@@ -55,7 +54,6 @@ Government is already planning events to engage Canadians around these topics. A
  
 Registration for these events can be found [here](https://open.canada.ca/en/4plan/engagement-schedule-canadas-4th-plan-on-open-government). 
                
-
 * Are these the right themes, what else is important to you? What commitments would you like to see?  
 * Are you or your organization able to help us form commitments?  
 * Register for an online discussion March 2 [HERE](https://zoom.us/webinar/register/WN_xW_bS5vORre9NfjNistVTA)

@@ -4,15 +4,11 @@ en:
   - text: About
     url: /en/about.html
   - text: Blog
-    url: /category/blog.html
-  - text: Discuss
-    url: https://groups.google.com/a/opengovdialogue.ca/forum/#!forum/discuss
+    url: /en/blog.html
 fr:
   - text: Accueil
     url: /fr/
   - text: À propos
     url: /fr/a-propos.html
   - text: Blogue
-    url: /category/blogue.html
-  - text: Discuter
-    url: https://groups.google.com/a/opengovdialogue.ca/forum/#!forum/discuss
+    url: /fr/blogue.html
