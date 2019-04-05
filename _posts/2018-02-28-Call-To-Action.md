@@ -1,10 +1,9 @@
 ---
+title: Call to Action
 layout: post-en
 translation_url: /blogue/2018/02/28/Appel-a-l-action.html
 category: blog
 ---
-
-
 
 
 ### Help us Shape Canada’s Commitments to Open Government!

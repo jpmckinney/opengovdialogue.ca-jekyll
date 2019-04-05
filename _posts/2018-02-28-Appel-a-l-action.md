@@ -1,10 +1,9 @@
 ---
+title: Appel à l’action
 layout: post-fr
 translation_url: /blog/2018/02/28/Call-To-Action.html
 category: blogue
 ---
-## Appel à l’action
-
 28 février, 2018
 
 ### Aidez-nous à façonner les engagements du Canada à l'égard du gouvernement ouvert!
