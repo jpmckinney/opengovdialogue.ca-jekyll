@@ -56,7 +56,7 @@ Thank you for your interest in the Multi-stakeholder Forum selection process. In
       <td>Katie Gibbs</td>
       <td>ON</td>
       <td>Evidence for Democracy</td>
-      <td><a href="/files/2017/nominations/katie-gibbs.pdf">Documents</a></td>
+      <td>Documents</td>
       <td><a href="/files/2017/materials/katie-gibbs.pdf">Other</a></td>
     </tr>
     <tr>
