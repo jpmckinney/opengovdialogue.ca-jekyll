@@ -56,7 +56,7 @@ Merci pour votre intérêt envers le processus de sélection du Forum multi-inte
       <td>Katie Gibbs</td>
       <td>ON</td>
       <td>Evidence for Democracy</td>
-      <td><a href="/files/2017/nominations/katie-gibbs.pdf">Documents</a></td>
+      <td>Documents</td>
       <td><a href="/files/2017/materials/katie-gibbs.pdf">Autre</a></td>
     </tr>
     <tr>
